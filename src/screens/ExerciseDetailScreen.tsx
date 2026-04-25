@@ -1,4 +1,3 @@
-// filepath: src/screens/ExerciseDetailScreen.tsx
 import React from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet, ScrollView, Alert } from 'react-native';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';

@@ -1,4 +1,3 @@
-// filepath: src/context/AppContext.tsx
 import React, { createContext, useContext, useReducer, useEffect, ReactNode } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { AppState, AppAction, Exercise } from '../types';

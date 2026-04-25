@@ -1,4 +1,3 @@
-// filepath: src/types/index.ts
 export interface Exercise {
   id: string;
   name: string;
